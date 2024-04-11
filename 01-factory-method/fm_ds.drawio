@@ -1,14 +1,17 @@
 <mxfile host="65bd71144e">
-    <diagram id="sUUaPduqyuZYLTc3TDkt" name="FactoryMethod-1">
-        <mxGraphModel dx="1808" dy="1398" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFF8F8" math="0" shadow="0">
+    <diagram id="sUUaPduqyuZYLTc3TDkt" name="1-FactoryMethod">
+        <mxGraphModel dx="1808" dy="932" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="15" value="&lt;span style=&quot;background-color: rgb(246, 238, 238);&quot;&gt;Factory Method&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;swimlaneLine=0;fontColor=#333333;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;" parent="1" vertex="1">
-                    <mxGeometry x="122" y="78" width="834" height="667" as="geometry"/>
+                <mxCell id="35" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="163" y="81" width="834" height="667" as="geometry"/>
                 </mxCell>
-                <mxCell id="34" value="" style="group" vertex="1" connectable="0" parent="1">
-                    <mxGeometry x="253" y="212" width="595" height="438" as="geometry"/>
+                <mxCell id="15" value="&lt;span style=&quot;background-color: rgb(246, 238, 238);&quot;&gt;Factory Method&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;swimlaneLine=0;fontColor=#333333;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;" parent="35" vertex="1">
+                    <mxGeometry width="834" height="667" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="group" parent="35" vertex="1" connectable="0">
+                    <mxGeometry x="119.5" y="137" width="595" height="438" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="&lt;span style=&quot;&quot;&gt;&lt;font color=&quot;#130606&quot;&gt;ProductA&lt;/font&gt;&lt;/span&gt;" style="html=1;shadow=0;swimlaneLine=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="34" vertex="1">
                     <mxGeometry x="485" y="332" width="110" height="50" as="geometry"/>
