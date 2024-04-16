@@ -1,6 +1,6 @@
 # 12dps
 
-design patterns
+design patterns for be oop
 
 - Look like a pre-make blue-print
 - A general concept for solving a particular problem
